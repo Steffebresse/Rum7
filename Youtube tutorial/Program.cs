@@ -37,7 +37,7 @@ public class Youtube
 
         // 7 najs
 
-        // 8 
+        // 8 Type casting är när man byter en data typ till en annan. implicit type casting är när du går från litet till stort och explicit är när du går från stort till litet. Vid explicit så får du säga till programmet vad som behöver förkastas (int)
 
         double myDouble = 9.78;
         int myInt = (int)myDouble;
