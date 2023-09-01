@@ -34,7 +34,7 @@ public class Youtube
 
         Console.WriteLine(_tal*10);
 
-        // 6
+        // 
 
 
 
