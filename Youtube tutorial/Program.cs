@@ -1,5 +1,6 @@
 ﻿
 using System;
+using System.Drawing;
 
 
 public class Youtube
@@ -34,7 +35,13 @@ public class Youtube
 
         Console.WriteLine(_tal*10);
 
-        // 
+        // 7 najs
+
+        // 8 
+
+        double myDouble = 9.78;
+        int myInt = (int)myDouble;
+
 
 
 
@@ -47,6 +54,6 @@ public class Youtube
 
     }
 
-   
+
 
 }
